@@ -1,0 +1,6 @@
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+      title: "Utku Gultopu's Website"
